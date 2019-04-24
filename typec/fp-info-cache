@@ -1,4 +1,4 @@
-15684005423863158
+15693285489243489
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -69341,13 +69341,6 @@ TPD6E05U06-USON
 0
 14
 14
-TPD8S300-WSON
-TPD8S300-WSON
-
-
-0
-26
-25
 TPS62081-WSON
 TPS62081-WSON
 
@@ -69964,13 +69957,62 @@ QFN DFN_QFN
 0
 107
 65
-TYPE-C-CONNECTOR
-CUI_UJ31-CH-4-MSMT-TR
+Type-C
+12401598E4#2A
 
 
 0
-34
-34
+28
+28
+Type-C
+HRO-TYPE-C-31-M-12
+
+
+0
+16
+13
+Type-C
+HRO-TYPE-C-31-M-12-Assembly
+
+
+0
+16
+13
+Type-C
+HRO-TYPE-C-31-M-12-HandSoldering
+
+
+0
+16
+13
+Type-C
+HRO-TYPE-C-31-M-13
+
+
+0
+16
+13
+Type-C
+Wurth-632723300011
+
+
+0
+32
+27
+Type-C
+Wurth-632723300011-HandSoldering
+
+
+0
+30
+26
+Type-C
+Wurth-632723300011-MaximumExtensionMount
+
+
+0
+32
+27
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
