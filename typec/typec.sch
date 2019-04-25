@@ -1243,7 +1243,7 @@ EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 2
+Sheet 1 3
 Title ""
 Date ""
 Rev ""
@@ -2031,7 +2031,7 @@ Wire Wire Line
 Wire Wire Line
 	2750 3650 2550 3650
 Text GLabel 2750 3750 2    20   Input ~ 0
-CRX2N
+CTX2N
 Wire Wire Line
 	2750 3750 2550 3750
 Text GLabel 2750 3850 2    20   Input ~ 0
@@ -2045,7 +2045,9 @@ Wire Wire Line
 $Sheet
 S 8400 1450 1150 750 
 U 5CC0E3D3
-F0 "Sheet5CC0E3D2" 50
-F1 "Main_Components.sch" 50
+F0 "Multiplexer" 50
+F1 "Multiplexer.sch" 50
 $EndSheet
+NoConn ~ 9850 3500
+NoConn ~ 9850 3650
 $EndSCHEMATC
