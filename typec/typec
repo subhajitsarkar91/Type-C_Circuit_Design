@@ -1,0 +1,147 @@
+Source:	C:\Users\sarkar\Desktop\Type-C_Circuit_Design\typec\typec.sch
+Date:	5/16/2019 5:37:16 PM
+Tool:	Eeschema (5.1.0)-1
+Component Count:	142
+Ref	Value	Part	Footprint	Description	Vendor
+C1	10uf/10v	Device:C	Capacitor_SMD:C_0805_2012Metric	Unpolarized capacitor	
+C2	0.1uF/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C3	10uf/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C4	1uf/10v	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C5	10 uF/10V	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C6	590pf/10v	Device:C	Capacitor_SMD:C_0201_0603Metric	Unpolarized capacitor	
+C7	22uf/6.3v	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C8	10uf/10v	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C10	0.1uf/10v	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C11	0.47uf/10v	Device:C	Capacitor_SMD:C_0201_0603Metric	Unpolarized capacitor	
+C12	0.47uf/10v	Device:C	Capacitor_SMD:C_0201_0603Metric	Unpolarized capacitor	
+C13	47uf/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C14	0.4uf/10v	Device:C	Capacitor_SMD:C_0201_0603Metric	Unpolarized capacitor	
+C15	0.47uf/10v	Device:C	Capacitor_SMD:C_0201_0603Metric	Unpolarized capacitor	
+C16	0.4uf/10v	Device:C	Capacitor_SMD:C_0201_0603Metric	Unpolarized capacitor	
+C17	0.4uf/10v	Device:C	Capacitor_SMD:C_0201_0603Metric	Unpolarized capacitor	
+C18	10uF/10v	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C19	0.1uF/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C20	0.1uF/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C21	0.1uF/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C22	0.1uF/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C23	0.1uF/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C24	0.1uF/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C25	0.1uF/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C26	0.1uF/10v	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C27	0.1uF/10v	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C28	0.1uF/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C29	0.1uF/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C30	0.1uF/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C31	0.1uF/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C32	0.1uF/10v	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C33	0.1uF/10v	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C34	10uF/10v	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C35	0.1uF/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C36	1uf/10v	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C38	0.1uF/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C39	18pF/10v	Device:C	Capacitor_SMD:C_0201_0603Metric	Unpolarized capacitor	
+C40	18pF/10v	Device:C	Capacitor_SMD:C_0201_0603Metric	Unpolarized capacitor	
+C41	0.1uF/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C42	0.1uF/10v	Device:C	Capacitor_SMD:C_0402_1005Metric	Unpolarized capacitor	
+C43	1uF/10v	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C44	1uf/10v	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C45	1uf/10v	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C46	10 uF/10v	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+D1	LED	Device:LED	LED_SMD:LED_0402_1005Metric	Light emitting diode	
+D2	LED	Device:LED	LED_SMD:LED_0402_1005Metric	Light emitting diode	
+D3	LED	Device:LED	LED_SMD:LED_0402_1005Metric	Light emitting diode	
+D4	LED	Device:LED	LED_SMD:LED_0402_1005Metric	Light emitting diode	
+D5	LED	Device:LED	LED_SMD:LED_0402_1005Metric	Light emitting diode	
+D6	LED	Device:LED	LED_SMD:LED_0402_1005Metric	Light emitting diode	
+D7	LED	Device:LED	LED_SMD:LED_0402_1005Metric	Light emitting diode	
+D8	LED	Device:LED	LED_SMD:LED_0402_1005Metric	Light emitting diode	
+D9	LED	Device:LED	LED_SMD:LED_0402_1005Metric	Light emitting diode	
+D10	LED	Device:LED	LED_SMD:LED_0402_1005Metric	Light emitting diode	
+D11	LED	Device:LED	LED_SMD:LED_0402_1005Metric	Light emitting diode	
+D12	LED	Device:LED	LED_SMD:LED_0402_1005Metric	Light emitting diode	
+FB1	Ferrite_Bead	Device:Ferrite_Bead	Inductor_SMD:L_0805_2012Metric	Ferrite bead	
+FB2	Ferrite_Bead	Device:Ferrite_Bead	Inductor_SMD:L_0805_2012Metric	Ferrite bead	
+FB3	Ferrite_Bead	Device:Ferrite_Bead	Inductor_SMD:L_0805_2012Metric	Ferrite bead	
+J1	Conn_01x05_Female	Connector:Conn_01x05_Female	Connector_JST:JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal	Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J2	Conn_01x05_Female	Connector:Conn_01x05_Female	Connector_JST:JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal	Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J3	Conn_01x05_Female	Connector:Conn_01x05_Female	Connector_JST:JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal	Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J4	Conn_01x05_Female	Connector:Conn_01x05_Female	Connector_JST:JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal	Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J5	Conn_01x05_Female	Connector:Conn_01x05_Female	Connector_JST:JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal	Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J6	Conn_01x02_Female	Connector:Conn_01x02_Female	Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+JP1	Jumper_NO_Small	Device:Jumper_NO_Small	Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical	Jumper, normally open, small symbol	
+JP2	Jumper_NO_Small	Device:Jumper_NO_Small	Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical	Jumper, normally open, small symbol	
+JP3	Jumper_3_Open	Jumper:Jumper_3_Open	Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical	Jumper, 3-pole, both open	
+JP4	Jumper_2_Open	Jumper:Jumper_2_Open	Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical	Jumper, 2-pole, open	
+JP5	Jumper_2_Open	Jumper:Jumper_2_Open	Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical	Jumper, 2-pole, open	
+JP6	Jumper_2_Open	Jumper:Jumper_2_Open	Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical	Jumper, 2-pole, open	
+JP7	Jumper_2_Open	Jumper:Jumper_2_Open	Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical	Jumper, 2-pole, open	
+JP8	Jumper_3_Open	Jumper:Jumper_3_Open	Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical	Jumper, 3-pole, both open	
+JP9	Jumper_3_Open	Jumper:Jumper_3_Open	Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical	Jumper, 3-pole, both open	
+L1	1 uH/3.1A	pspice:INDUCTOR	Inductor_SMD:L_6.3x6.3_H3	Capacitor symbol for simulation only	
+MUX1	HD3SS3220	HD3SS3220-VQFN:HD3SS3220	HD3SS3220-VQFN:HD3SS3220-VQFN-MUX		
+R1	1.6K	Device:R_Small_US	Resistor_SMD:R_0201_0603Metric	Resistor, small US symbol	
+R2	330 E	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R3	330 E	Device:R_Small_US	Resistor_SMD:R_0201_0603Metric	Resistor, small US symbol	
+R4	43K	Device:R_Small_US	Resistor_SMD:R_0201_0603Metric	Resistor, small US symbol	
+R5	100 E	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R6	330 E	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R7	178K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R8	5 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R9	330 E	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R10	1.9K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R11	330 E	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R12	100K	Device:R_Small_US	Resistor_SMD:R_0201_0603Metric	Resistor, small US symbol	
+R13	10 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R14	900 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R15	100K	Device:R_Small_US	Resistor_SMD:R_0201_0603Metric	Resistor, small US symbol	
+R16	4.7K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R17	100K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R18	100K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R19	200 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R20	0 E	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R21	0 E	Device:R_Small_US	Resistor_SMD:R_0201_0603Metric	Resistor, small US symbol	
+R22	200 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R23	500 E	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R25	200 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R26	500 E	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R27	NC / 10 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R28	NC/ 10 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R31	330 E	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R34	330 E	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R35	330 E	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R36	330 E	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R37	1 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R38	1 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R39	1 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R40	9.53 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R41	1 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R43	1 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R44	1 M	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R45	1 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R46	1 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R47	1 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R48	10 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R49	1 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R50	10 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R51	4.7 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R52	10 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R53	4.7 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R54	90.9 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R55	10 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R56	10 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R57	4.7 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+R58	4.7 K	Device:R_Small_US	Resistor_SMD:R_0402_1005Metric	Resistor, small US symbol	
+SW1	SW_Push_Dual_x2	Switch:SW_Push_Dual_x2	Button_Switch_THT:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile	Push button switch, generic, separate symbols, four pins	
+SW2	SW_DIP_x06	Switch:SW_DIP_x06	Button_Switch_THT:SW_DIP_SPSTx06_Slide_6.7x16.8mm_W7.62mm_P2.54mm_LowProfile	6x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol	
+SW4	SW_DIP_x08	Switch:SW_DIP_x08	Button_Switch_THT:SW_DIP_SPSTx08_Slide_6.7x21.88mm_W7.62mm_P2.54mm_LowProfile	8x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol	
+SW5	SW_DIP_x04	Switch:SW_DIP_x04	Button_Switch_THT:SW_DIP_SPSTx04_Slide_6.7x11.72mm_W7.62mm_P2.54mm_LowProfile	4x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol	
+U1	TPD6E05U06-USON	TPD6E05U06-USON:TPD6E05U06-USON	TPD6E05U06-USON:TPD6E05U06-USON		
+U2	TUSB212-X2QFN	TUSB212-X2QFN:TUSB212-X2QFN	TUSB212-X2QFN:TUSB212-X2QFN		
+U3	TPD4E05U06-USON	TPD4E05U06-USON:TPD4E05U06-USON	TPD4E05U06-USON:TPD4E05U06-USON		
+U4	TPD4E05U06-USON	TPD4E05U06-USON:TPD4E05U06-USON	TPD4E05U06-USON:TPD4E05U06-USON		
+U5	TPS62082-WSON	typec-rescue:TPS62082-WSON	TPS62081-WSON:TPS62082-WSON		
+U6	TPS74801-VSON	TPS74801-VSON:TPS74801-VSON	TPS74801-VSON:TPS74801-VSON		
+U7	USB_HUB	TUSB8042-VQFN:USB_HUB	TUSB8042-VQFN:QFN-64-1EP_9x9mm_P0.5mm_EP6x6mm_ThermalVias		
+USB1	Wurth-632723300011	TYPEC_MODULES:Wurth-632723300011	Type-C:Wurth-632723300011-MaximumExtensionMount		
+Y1	24 MHz	Device:Crystal	Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm	Two pin crystal	
+e1	105 K	Device:R_Small_US	Resistor_SMD:R_0201_0603Metric	Resistor, small US symbol	
