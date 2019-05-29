@@ -1900,7 +1900,7 @@ AR Path="/5CCE336A" Ref="JP1"  Part="1"
 AR Path="/5CC0E3D3/5CCE336A" Ref="JP?"  Part="1" 
 F 0 "JP1" H 2900 6485 50  0000 C CNN
 F 1 "Jumper_NO_Small" H 2900 6394 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical" H 2900 6300 50  0001 C CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical" H 2900 6300 50  0001 C CNN
 F 3 "~" H 2900 6300 50  0001 C CNN
 	1    2900 6300
 	1    0    0    -1  
@@ -2090,7 +2090,7 @@ AR Path="/5CCECC39" Ref="JP2"  Part="1"
 AR Path="/5CC0E3D3/5CCECC39" Ref="JP?"  Part="1" 
 F 0 "JP2" H 5050 6435 50  0000 C CNN
 F 1 "Jumper_NO_Small" H 5050 6344 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical" H 5050 6250 50  0001 C CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical" H 5050 6250 50  0001 C CNN
 F 3 "~" H 5050 6250 50  0001 C CNN
 	1    5050 6250
 	1    0    0    -1  

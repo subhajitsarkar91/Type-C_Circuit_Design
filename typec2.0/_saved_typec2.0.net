@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\sarkar\Desktop\Type-C_Circuit_Design\typec2.0\_saved_typec2.0.sch)
-    (date "5/29/2019 3:09:37 PM")
+    (date "5/29/2019 3:08:38 PM")
     (tool "Eeschema (5.1.0)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -535,7 +535,7 @@
       (tstamp 5CF55FEB))
     (comp (ref J3)
       (value Conn_01x05_Female)
-      (footprint Connector_JST:JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal)
+      (footprint Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal)
       (datasheet ~)
       (libsource (lib Connector) (part Conn_01x05_Female) (description "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"))
       (sheetpath (names /) (tstamps /))

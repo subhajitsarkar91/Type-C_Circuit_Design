@@ -26,7 +26,7 @@
     (40 Dwgs.User user)
     (41 Cmts.User user)
     (42 Eco1.User user)
-    (43 Eco2.User user hide)
+    (43 Eco2.User user)
     (44 Edge.Cuts user)
     (45 Margin user)
     (46 B.CrtYd user)
@@ -36,7 +36,7 @@
   )
 
   (setup
-    (last_trace_width 0.8)
+    (last_trace_width 0.25)
     (user_trace_width 0.2)
     (user_trace_width 0.4)
     (user_trace_width 0.8)
@@ -7487,7 +7487,6 @@
   (segment (start 145.6944 50.317401) (end 146.304 50.927001) (width 0.2) (layer F.Cu) (net 2))
   (segment (start 147.2024 51.825401) (end 153.331284 51.825401) (width 0.2) (layer In1.Cu) (net 2))
   (segment (start 146.304 50.927001) (end 147.2024 51.825401) (width 0.2) (layer In1.Cu) (net 2))
-  (segment (start 146.812 43.1512) (end 146.596 43.3672) (width 0.2) (layer In1.Cu) (net 3) (status 30))
   (via (at 146.683635 48.892491) (size 0.4) (drill 0.3) (layers F.Cu B.Cu) (net 3))
   (segment (start 146.6944 48.881726) (end 146.683635 48.892491) (width 0.2) (layer F.Cu) (net 3))
   (segment (start 146.6944 48.4378) (end 146.6944 48.881726) (width 0.2) (layer F.Cu) (net 3) (status 10))
@@ -7501,6 +7500,7 @@
   (segment (start 146.483636 46.456762) (end 148.238197 44.702201) (width 0.2) (layer B.Cu) (net 3))
   (segment (start 146.683635 48.892491) (end 146.483636 48.692492) (width 0.2) (layer B.Cu) (net 3))
   (segment (start 146.483636 48.692492) (end 146.483636 46.456762) (width 0.2) (layer B.Cu) (net 3))
+  (segment (start 146.812 43.1512) (end 146.596 43.3672) (width 0.2) (layer In1.Cu) (net 3) (status 30))
   (segment (start 144.1944 48.19281) (end 144.1944 48.4378) (width 0.2) (layer F.Cu) (net 4) (status 30))
   (segment (start 144.1944 48.0878) (end 144.1944 48.4378) (width 0.2) (layer F.Cu) (net 4))
   (segment (start 144.22595 48.05625) (end 144.1944 48.0878) (width 0.2) (layer F.Cu) (net 4))
